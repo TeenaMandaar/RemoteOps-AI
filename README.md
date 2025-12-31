@@ -10,7 +10,7 @@ Remote managers have a "Trust Gap." They don't know if employees are working too
 Most companies solve this with invasive screen recording. **I wanted to solve it with Math.**
 
 ### 💡 The Solution
-This project analyzes **digital footprints** (Work hours, Jira tickets, Git commits) to find anomalies ethically and by not ethically .
+This project analyzes **digital footprints** (Work hours, Jira tickets, Git commits) to find anomalies ethically without spying .
 
 It uses two AI models working together:
 
